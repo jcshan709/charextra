@@ -26,5 +26,11 @@
   "homepage": "https://sjc0910.github.io/charextra",
   "dependencies": {
     "chalk": "^4.1.0"
-  }
+  },
+  "files": [
+    "package.json",
+    "readme.md",
+    "index.js",
+    "index.d.ts"
+  ]
 }
