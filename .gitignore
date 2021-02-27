@@ -108,7 +108,7 @@ index.ts
 test.ts
 
 # built
-.build
+.build/
 
 # Lock
 package-lock.json
