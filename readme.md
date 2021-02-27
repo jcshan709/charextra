@@ -2,6 +2,10 @@
 Extra chars for Node.js and Typescript.  
 [github repository](http://github.com/sjc0910/charextra)
 # How to use?
+Install:
+```
+npm i charextra
+```
 Pattern:
 ```javascript
 charextra.<symbol name>
@@ -29,4 +33,5 @@ This package only supports few charactors, but I'll add more in the future.
 |error|A red string "ERROR"|
 |warn|A yellow string "WARN"|
 |info|A green string "INFO"|  
+
 Do you have any other good idea? Send to my email sjc.0910@qq.com!
