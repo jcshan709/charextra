@@ -1,6 +1,6 @@
 {
   "name": "charextra",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Extra chars for Node.js and Typescript",
   "main": "index.js",
   "scripts": {
