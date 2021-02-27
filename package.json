@@ -1,0 +1,25 @@
+{
+  "name": "charextra",
+  "version": "1.0.0",
+  "description": "Extra chars for Node.js and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -outdir ./build/ test.ts && copy index.js index.d.ts ./build/ && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjc0910/charextra.git"
+  },
+  "keywords": [
+    "char",
+    "console",
+    "print",
+    "log"
+  ],
+  "author": "sjc0910 <sjc.0910@qq.com>",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sjc0910/charextra/issues"
+  },
+  "homepage": "https://github.com/sjc0910/charextra#readme"
+}
