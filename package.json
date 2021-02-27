@@ -1,10 +1,12 @@
 {
   "name": "charextra",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Extra chars for Node.js and Typescript",
   "main": "index.js",
   "scripts": {
-    "test": "tsc -outdir ./build/ test.ts && copy index.js index.d.ts ./build/ && node test.js"
+    "test": "tsc -outdir ./build/ test.ts && tsc -d index.ts && copy index.js .\\build && copy /a index.d.ts .\\build && echo ------------------------------ && node build\\test.js",
+    "build": "tsc -d index.ts",
+    "debug": "npm run build && npm run test"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sjc0910/charextra/issues"
   },
-  "homepage": "https://github.com/sjc0910/charextra#readme"
+  "homepage": "https://sjc0910.github.io/charextra",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
