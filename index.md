@@ -17,7 +17,7 @@ log(charextra.check)
 ```
 Run it and you'll see a green tick (In fact, it's a green square root symbol)  
 # Support charactors
-This package only supports few charactors, but I'll add more in the future.
+This package only supports few charactors, but I'll add more in the future.  
 |symbol name|charactor|
 |-|-|
 |sqrt|A square root symbol|
