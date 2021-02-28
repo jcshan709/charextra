@@ -1,6 +1,8 @@
 # Charextra
 Extra chars for Node.js and Typescript.  
-[github repository](http://github.com/sjc0910/charextra)
+[github repository](http://github.com/sjc0910/charextra)  
+[Main page](http://sjc0910.github.io/charextra)  
+[NPM](http://www.npmjs.com/charextra)
 # How to use?
 Install:
 ```
@@ -32,6 +34,14 @@ This package only supports few charactors, but I'll add more in the future.
 |fatal|A bold red string "FATAL"|
 |error|A red string "ERROR"|
 |warn|A yellow string "WARN"|
-|info|A green string "INFO"|  
+|info|A green string "INFO"|
+|copyright|The symbol ©|
+|registry|The symbol ®|
+|block|A block with black filling|
+|square|A square with black filling|
+|square_without_filling|A square without filling|
+|swf|The same as above|
+|TM|The symbol ™|  
 
+<br>
 Do you have any other good idea? Send to my email sjc.0910@qq.com!
