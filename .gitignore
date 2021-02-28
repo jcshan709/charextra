@@ -103,8 +103,7 @@ dist
 # TernJS port file
 .tern-port
 
-# typescript main file
-index.ts
+# typescript
 test.ts
 
 # built

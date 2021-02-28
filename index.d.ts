@@ -11,6 +11,13 @@ declare class charextra {
     error: String;
     warn: String;
     info: String;
+    copyright: String;
+    registry: String;
+    block: String;
+    square: String;
+    square_without_filling: String;
+    swf: String;
+    TM: String;
 }
 declare const _default: charextra;
 export = _default;
