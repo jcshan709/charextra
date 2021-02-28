@@ -18,6 +18,13 @@ var charextra = /** @class */ (function () {
         this.error = chalk(templateObject_4 || (templateObject_4 = __makeTemplateObject(["{red ERROR}"], ["{red ERROR}"])));
         this.warn = chalk(templateObject_5 || (templateObject_5 = __makeTemplateObject(["{yellow WARN}"], ["{yellow WARN}"])));
         this.info = chalk(templateObject_6 || (templateObject_6 = __makeTemplateObject(["{green INFO}"], ["{green INFO}"])));
+        this.copyright = '©';
+        this.registry = '®';
+        this.block = '█';
+        this.square = '■';
+        this.square_without_filling = '□';
+        this.swf = this.square_without_filling;
+        this.TM = '™';
     }
     return charextra;
 }());
