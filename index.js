@@ -25,6 +25,14 @@ var charextra = /** @class */ (function () {
         this.square_without_filling = '□';
         this.swf = this.square_without_filling;
         this.TM = '™';
+        this.sum = '∑';
+        this.delta = '∆';
+        this.le = '≤';
+        this.ge = '≥';
+        this.infinity = '∞';
+        this.alpha = 'α';
+        this.beta = 'β';
+        this.gamma = 'γ';
     }
     return charextra;
 }());
