@@ -27,5 +27,10 @@ class charextra {
   public alpha: string = 'α';
   public beta: string = 'β';
   public gamma: string = 'γ';
+  public line10: string = '----------';
+  public line20: string = '--------------------';
+  public line30: string = '------------------------------';
+  public line80: string = '--------------------------------------------------------------------------------';
+  public line100: string = '----------------------------------------------------------------------------------------------------';
 }
 export = new charextra();

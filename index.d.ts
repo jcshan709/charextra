@@ -26,6 +26,11 @@ declare class charextra {
     alpha: string;
     beta: string;
     gamma: string;
+    line10: string;
+    line20: string;
+    line30: string;
+    line80: string;
+    line100: string;
 }
 declare const _default: charextra;
 export = _default;

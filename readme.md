@@ -49,5 +49,6 @@ Run it and you'll see a green tick (In fact, it's a green square root symbol)
 |alpha|The symbol α|
 |beta|The symbol β|
 |gamma|The symbol γ|  
+|line\<num\>|A line with \<num\> '-' <br> e.g. line30 -> '------------------------------' <br> \<num\> can be 10, 20, 30, 80 and  100|  
 
-Do you have any other good idea? Send to my email `sjc.0910@qq.com`!
+Do you have any other good idea? Send to my email [sjc.0910@qq.com](mailto:sjc.0910@qq.com)!
